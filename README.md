@@ -1,0 +1,2 @@
+# newpthon
+pyhton new smaple
